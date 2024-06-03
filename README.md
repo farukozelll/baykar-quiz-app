@@ -1,1 +1,2 @@
-# baykar-quiz-app
+# quiz-app
+React and HTML
