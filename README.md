@@ -40,13 +40,6 @@ Bu proje, kullanıcıların sorulara cevap vererek kendilerini test edebilecekle
 - `style.css`: Uygulamanın stil dosyası.
 - `script.js`: Uygulamanın JavaScript dosyası.
 
-## Ekran Görüntüleri
-
-### Ana Ekran
-![Ana Ekran](screenshots/main-screen.png)
-
-### Sonuçlar Ekranı
-![Sonuçlar Ekranı](screenshots/results-screen.png)
 
 ## Katkıda Bulunma
 
